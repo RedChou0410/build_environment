@@ -23,4 +23,7 @@ Ctrl-C doesn't terminate process or clear the line
 
 https://github.com/Tyriar/node-pty/issues/7
 
-用 ctrl + z
+~~用 ctrl + z~~
+> 無法停掉 web server, 可能是 windows 版本問題
+
+改用 **cmder**
