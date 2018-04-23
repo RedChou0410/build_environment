@@ -27,3 +27,16 @@ https://github.com/Tyriar/node-pty/issues/7
 > 無法停掉 web server, 可能是 windows 版本問題
 
 改用 **cmder**
+
+## gulp
+
+install gulp
+```
+$ npm install --global gulp
+```
+
+透過 package.json 安裝 gulp 模組
+
+```
+$ npm install
+```
